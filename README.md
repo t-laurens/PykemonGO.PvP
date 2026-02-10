@@ -2,7 +2,7 @@
 
 ## Plan du dossier
 
-![alt text](PykemonGO.pvp.png)
+![alt text](PykemonGO.PvP.png)
 
 Comprenez les liaisons A -> B comme "A est nécessaire pour faire fonctionner B".
 
